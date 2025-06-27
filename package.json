@@ -1,0 +1,36 @@
+{
+  "name": "trocatrampoapp",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expo": "~53.0.11",
+    "expo-status-bar": "~2.2.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "react": "19.0.0",
+    "react-native": "0.79.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LincolnLuzz/TrocaTrampoApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/LincolnLuzz/TrocaTrampoApp/issues"
+  },
+  "homepage": "https://github.com/LincolnLuzz/TrocaTrampoApp#readme",
+  "description": ""
+}
